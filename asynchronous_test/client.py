@@ -1,6 +1,6 @@
 import asyncio
 import websockets
-from config import *
+from config.config import *
 
 async def send(websocket, msg):
     message = msg.encode(FORMAT)

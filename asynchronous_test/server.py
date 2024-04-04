@@ -1,5 +1,5 @@
 import asyncio
-from config import *
+from config.config import *
 import blessings
 
 # import relevant libraries

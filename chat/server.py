@@ -1,7 +1,7 @@
 # import relevant libraries
 import socket
 import threading
-from config import *
+from config.config import *
 import blessings
 import asyncio
 

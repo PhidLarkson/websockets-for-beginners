@@ -1,7 +1,7 @@
 # import socket module
 import socket
 import time
-from config import *
+from config.config import *
 
 # Create a socket object
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
