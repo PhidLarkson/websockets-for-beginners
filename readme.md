@@ -3,7 +3,7 @@
 This is a simple demonstration of a chat application using WebSockets. It allows users to send and receive messages in real-time over a terminal.
 
 ## Appearance
-![Chat Application Interface](screenshots/image.png)
+![Chat Application Interface](screenshot/image.png)
 
 The image above shows the interface of the chat application. It's a simple terminal-based interface where users can type their messages and see responses in real-time.
 
