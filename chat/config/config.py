@@ -10,6 +10,9 @@ BREAK = '!e'
 SERVER = socket.gethostbyname(socket.gethostname())     # get the server address automatically
 ADDR = (SERVER, PORT)                             # specify the address: the server address and port
 
+#  specify server as 192.168.173.50
+SERVER = '192.168.173.50'
+
 # clients
 CLIENTS = {
     'master': ''
