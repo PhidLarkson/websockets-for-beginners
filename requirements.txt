@@ -1,0 +1,5 @@
+
+
+blessings==1.7
+websockets==12.0
+```
